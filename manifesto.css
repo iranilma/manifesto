@@ -1,0 +1,119 @@
+
+/********* MAIN CONTAINER ************/
+
+main {
+	width: 360px;
+	margin: auto;
+  background: #fb93b6 ;
+}
+
+/*********** TEXT STYLES *************/
+
+p {
+	text-align: center;
+	margin: 0px;
+	font-family: 'Architects Daughter', serif;
+	font-size: 19px;
+	line-height: 17px;
+}
+
+.highlight-text {
+	font-family: 'Indie Flower', cursive;
+	font-size: 19px;
+  line-height: 21px;
+  color: #a01795;
+}
+
+.big-quote {
+  font-size: 22px;
+  line-height: 24px;
+  color: #F1E4B3;
+}
+
+.big-quote2 {
+  font-size: 22px;
+  line-height: 24px;
+  color: white;
+}
+
+/*********** SECTION CONTAINER ************/
+
+.middle-section {
+  clear: both;
+}
+
+/***************** QUOTE BOXES ******************/
+
+#box1, #box2, #box3, #box4, #box5, #box6, #box7, #box8 {
+  width: 156px;
+  
+}
+
+#box1 {
+	padding: 15px 12px 40px;
+	background: #42b992;
+  background-image: url("cute-flowers.jpg");
+	color: black;
+  height: 305px;
+  float: left;
+}
+
+#box2 {
+	padding: 25px 12px 10px;
+	background: #ffa2a2;
+  color: black;
+  height: 145px;
+  float: left;
+}
+
+#box3 {
+	padding: 38px 12px 0px;
+	background: #07998f;
+  height: 142px;
+  float: left;
+  color: white;
+}
+
+#box4 {
+	padding: 40px 12px 0px;
+	background: #ffa2a2;
+  color: black;
+  height: 140px;
+  float: left;
+}
+
+#box5 {
+	padding: 45px 12px 0px;
+	background: #fb93b6;
+  height: 135px;
+  float: left;
+  color: white;
+}
+
+#box6 {
+	padding: 57px 12px 0px;
+	background:#07998f;
+  height: 123px;
+  float: left;
+  color: black;
+}
+
+
+#box7 {
+	padding: 60px 12px 0px;
+	background: #fb93b6;
+  height: 120px;
+  float: left;
+  color: black;
+}
+
+#box8 {
+	padding: 15px 12px 20px;
+	background: #42b992;
+  height: 325px;
+  float: right; 
+}
+
+
+
+
